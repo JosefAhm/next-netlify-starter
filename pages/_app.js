@@ -1,7 +1,7 @@
 import Register from "sites/pages/Register";
 import Login from "sites/pages/Login";
 import Home from "sites/pages/Home";
-import "styles/style.css"
+import "styles/style.scss"
 import {
   BrowserRouter,
   Routes,
